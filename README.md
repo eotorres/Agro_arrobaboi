@@ -1,2 +1,2 @@
 # Agro_arrobaboi
-Raspagem de dados CEPEA, para que seja validado o valor da @boi_gordo
+Raspagem de dados CEPEA, para consultarmos e gravarmos o valor da @boi_gordo
