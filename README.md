@@ -34,3 +34,7 @@ Hoje o projeto somente está constrituido em coletagem de dados.
   * Encontrar os motivos se possíveis variações entre os dias
   * Comparar insights entre os locais/datas/variações
   * Implantar algoritimos de machine learning, caso for necessário
+
+# Imagens
+
+![Boi_Gordo](C:\Users\emmanuel.torres\Downloads\Boi Gordo)
