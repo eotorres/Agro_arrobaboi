@@ -37,5 +37,5 @@ Hoje o projeto somente está constrituido em coletagem de dados.
 
 # Imagens
 
-* [Boi_Gordo](https://github.com/eotorres/Agro_arrobaboi/blob/boi_gordo/Capturar.JPG)
+* Boi_Gordo (https://github.com/eotorres/Agro_arrobaboi/blob/boi_gordo/Capturar.JPG)
 * [CEPEA](https://github.com/eotorres/Agro_arrobaboi/blob/boi_gordo/Capturar1.JPG)
