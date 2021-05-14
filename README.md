@@ -25,10 +25,10 @@ Hoje o projeto somente está constrituido em coletagem de dados.
 
 # Ordem de execução :
 
-  *Boi Gordo.ipynb
-  *IndBG_CEPEA.ipynb
-  *Pregão.ipynb  
-  *JuntaGado.ipynb
+  * Boi Gordo.ipynb
+  * IndBG_CEPEA.ipynb
+  * Pregão.ipynb  
+  * JuntaGado.ipynb
   
 # Obs :
 
