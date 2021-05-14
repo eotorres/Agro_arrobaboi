@@ -37,4 +37,4 @@ Hoje o projeto somente está constrituido em coletagem de dados.
 
 # Imagens
 
-[Boi_Gordo](C:\Users\emmanuel.torres\Downloads\Boi Gordo)
+[Boi_Gordo](https://github.com/eotorres/Agro_arrobaboi/edit/boi_gordo/captura.jpg )
