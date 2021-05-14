@@ -23,6 +23,13 @@ O projeto consiste em realizar a coleta de dados nos seguintes sites :
 O estudo consiste em validar varias fontes e logo apos a validação unir em uma unica base para os devidos insights.
 Hoje o projeto somente está constrituido em coletagem de dados.
 
+# Ordem de execução :
+
+  *Boi Gordo.ipynb
+  *IndBG_CEPEA.ipynb
+  *Pregão.ipynb  
+  *JuntaGado.ipynb
+  
 # Obs :
 
   * Os scripts devem ser executados uma vez ao dia para o registro diário de informações.
